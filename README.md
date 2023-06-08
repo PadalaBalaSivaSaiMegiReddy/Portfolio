@@ -1,6 +1,6 @@
 # Megi Reddy's Portfolio
 
-This is the README file for Megi Reddy's portfolio website. The portfolio showcases Megi Reddy's work, skills, and achievements in a visually appealing and organized manner. The website can be accessed at [https://padalabalasivasaimegireddy.github.io/Portfolio/](https://padalabalasivasaimegireddy.github.io/Portfolio/).
+This is the README file for Megi Reddy's portfolio website. The portfolio showcases Megi Reddy's work, skills, and achievements in a visually appealing and organized manner. The website can be accessed at [https://balasivasaimegireddypadala.netlify.app/](https://balasivasaimegireddypadala.netlify.app/).
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ The portfolio website offers the following features:
 
 ## Installation
 
-As this is a website, there is no installation process required. Simply access the portfolio website by visiting [https://padalabalasivasaimegireddy.github.io/Portfolio/](https://padalabalasivasaimegireddy.github.io/Portfolio/) using a web browser.
+As this is a website, there is no installation process required. Simply access the portfolio website by visiting [https://balasivasaimegireddypadala.netlify.app/](https://balasivasaimegireddypadala.netlify.app/) using a web browser.
 
 ## Usage
 
